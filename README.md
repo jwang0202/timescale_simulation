@@ -1,5 +1,5 @@
-# timescale simulation
-R codes for timescale simulation
+# Timescale simulation
+R codes for timescale simulation:
 
 
 There are two different R scripts.
